@@ -134,7 +134,7 @@ Test HBase is working from Java
 	Use "help" to get list of supported commands.
 	Use "exit" to quit this interactive shell.
 	For Reference, please visit: http://hbase.apache.org/2.0/book.html#shell
-	Version 2.1.2, r1dfc418f77801fbfb59a125756891b9100c1fc6d, Sun Dec 30 21:45:09 PST 2018
+	Version 2.0.5, r1dfc418f77801fbfb59a125756891b9100c1fc6d, Sun Dec 30 21:45:09 PST 2018
 	Took 0.0472 seconds
 	hbase(main):001:0> status
 	1 active master, 0 backup masters, 1 servers, 0 dead, 2.0000 average load
